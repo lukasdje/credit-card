@@ -38,6 +38,7 @@ export const NameUser = styled.Text`
   font-weight: bold;
   font-size: 18px;
   margin: 10px;
+  font-family: 'Inter-Bold';
 `
 
 export const ImageUser = styled.Image`
